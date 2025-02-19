@@ -1,4 +1,4 @@
-# Kickstarter for Tanstack Router with tailwind & Shadcn
+# Kickstart Tanstack Router with Shadcn
 
 # Getting Started
 
